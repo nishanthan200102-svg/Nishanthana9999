@@ -182,7 +182,7 @@
 <body>
 
   <header>
-    <div class="logo">Nishanthan</div>
+    <div class="logo">Nishanthan Suseekaran </div>
 
     <nav>
       <a href="#home">Home</a>
@@ -197,12 +197,12 @@
   <div class="hero" id="home">
     <img
       class="profile"
-      src="profile.jpg"
+      src="Screenshot_2026-09-24-07-18-05-569_com.whatsapp.jpg"
       alt="Nishanthan Suseekaran"
       onerror="this.style.display='none'"
     >
 
-    <h1>Nishanthan Suseekaran</h1>
+    <h1></h1>
 
     <p>Welcome to My Personal Website</p>
 
