@@ -197,7 +197,7 @@
   <div class="hero" id="home">
     <img
       class="profile"
-      src="Screenshot_2026-09-24-07-18-05-569_com.whatsapp.jpg"
+      src="IMG_20260924_071849.jpg
       alt="Nishanthan Suseekaran"
       onerror="this.style.display='none'"
     >
